@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1522434920 source:c:\users\pc\desktop\cse225\labs\lab5\lab5\itemtype.cpp
+	"ItemType.h"
+
+1522434999 c:\users\pc\desktop\cse225\labs\lab5\lab5\itemtype.h
+	<iostream>
+
+1522438797 source:c:\users\pc\desktop\cse225\labs\lab5\lab5\main.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1522434567 source:c:\users\pc\desktop\cse225\labs\lab5\lab5\unsortedtype.cpp
+	"UnsortedType.h"
+
+1522434458 c:\users\pc\desktop\cse225\labs\lab5\lab5\unsortedtype.h
+	"ItemType.h"
+	<new>
+
+1521652638 c:\users\pc\desktop\cse225\labs\lab5\lab5\itemtype.cpp
+	"ItemType.h"
+
+1522434567 c:\users\pc\desktop\cse225\labs\lab5\lab5\unsortedtype.cpp
+	"UnsortedType.h"
+
